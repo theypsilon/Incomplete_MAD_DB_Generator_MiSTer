@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Night Warriors: Darkstalkers' Revenge (USA 950406)</name><setname>nwarru</setname><name>Night Warriors: Darkstalkers' Revenge (USA 950406)</name><region>USA</region><year>1995</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Night Warriors: Darkstalkers' Revenge (USA 950406)</name>
+   <setname>nwarru</setname>
+   <name>Night Warriors: Darkstalkers' Revenge (USA 950406)</name>
+   <region>USA</region>
+   <year>1995</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

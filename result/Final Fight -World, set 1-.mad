@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Final Fight (World, set 1)</name><setname>ffight</setname><name>Final Fight (World, set 1)</name><year>1989</year><category>Beat em up</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Final Fight (World, set 1)</name>
+   <setname>ffight</setname>
+   <name>Final Fight (World, set 1)</name>
+   <year>1989</year>
+   <category>Beat em up</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

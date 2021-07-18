@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Van-Van Car (Karateco set 2)</name><setname>vanvanb</setname><name>Van-Van Car (Karateco set 2)</name><year>1983</year><category>Maze</category><manufacturer>Sanritsu (Karateco license?)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Van-Van Car (Karateco set 2)</name>
+   <setname>vanvanb</setname>
+   <name>Van-Van Car (Karateco set 2)</name>
+   <year>1983</year>
+   <category>Maze</category>
+   <manufacturer>Sanritsu (Karateco license?)</manufacturer>
+</misterarcadedescription>

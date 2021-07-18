@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Wonder 3 (Japan 910520)</name><setname>wonder3</setname><name>Wonder 3 (Japan 910520)</name><year>1991</year><category>Multigame</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Wonder 3 (Japan 910520)</name>
+   <setname>wonder3</setname>
+   <name>Wonder 3 (Japan 910520)</name>
+   <year>1991</year>
+   <category>Multigame</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

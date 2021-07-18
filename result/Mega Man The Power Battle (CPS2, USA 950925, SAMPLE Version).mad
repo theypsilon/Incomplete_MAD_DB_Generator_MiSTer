@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Mega Man: The Power Battle (CPS2, USA 950925, Sample Version)</name><setname>mmancp2ur2</setname><name>Mega Man: The Power Battle (CPS2, USA 950925, Sample Version)</name><region>USA</region><year>1995</year><category>Platformer</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mega Man: The Power Battle (CPS2, USA 950925, Sample Version)</name>
+   <setname>mmancp2ur2</setname>
+   <name>Mega Man: The Power Battle (CPS2, USA 950925, Sample Version)</name>
+   <region>USA</region>
+   <year>1995</year>
+   <category>Platformer</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

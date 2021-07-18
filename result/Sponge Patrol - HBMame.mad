@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Sponge Patrol - HBMame</name><setname>spatrol</setname><name>Sponge Patrol - HBMame</name><year>2008</year><category>Space / Moon</category><manufacturer>Gatinho</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Sponge Patrol - HBMame</name>
+   <setname>spatrol</setname>
+   <name>Sponge Patrol - HBMame</name>
+   <year>2008</year>
+   <category>Space / Moon</category>
+   <manufacturer>Gatinho</manufacturer>
+</misterarcadedescription>

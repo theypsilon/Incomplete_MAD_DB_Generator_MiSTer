@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Caterpillar - HBMame</name><setname>caterpil</setname><name>Caterpillar - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>Phi</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Caterpillar - HBMame</name>
+   <setname>caterpil</setname>
+   <name>Caterpillar - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Phi</manufacturer>
+</misterarcadedescription>

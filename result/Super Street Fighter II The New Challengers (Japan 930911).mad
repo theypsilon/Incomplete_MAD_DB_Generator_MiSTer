@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Super Street Fighter II: The New Challengers (Japan 930911)</name><setname>ssf2jr1</setname><name>Super Street Fighter II: The New Challengers (Japan 930911)</name><region>Japan</region><year>1993</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Street Fighter II: The New Challengers (Japan 930911)</name>
+   <setname>ssf2jr1</setname>
+   <name>Super Street Fighter II: The New Challengers (Japan 930911)</name>
+   <region>Japan</region>
+   <year>1993</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

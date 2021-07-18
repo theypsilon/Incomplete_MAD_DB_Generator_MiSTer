@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Car Action (set 2)</name><setname>caractn2</setname><name>Car Action (set 2)</name><year>1982</year><category>Racing / Cars</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Car Action (set 2)</name>
+   <setname>caractn2</setname>
+   <name>Car Action (set 2)</name>
+   <year>1982</year>
+   <category>Racing / Cars</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

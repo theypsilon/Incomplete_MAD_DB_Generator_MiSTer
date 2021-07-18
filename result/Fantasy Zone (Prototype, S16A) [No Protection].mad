@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Fantasy Zone (Prototype, S16A) [No Protection]</name><setname>fantzonepr</setname><name>Fantasy Zone (Prototype, S16A) [No Protection]</name><region>World</region><year>1986</year><category>Shoot'em Up</category><manufacturer>Sega</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Fantasy Zone (Prototype, S16A) [No Protection]</name>
+   <setname>fantzonepr</setname>
+   <name>Fantasy Zone (Prototype, S16A) [No Protection]</name>
+   <region>World</region>
+   <year>1986</year>
+   <category>Shoot'em Up</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

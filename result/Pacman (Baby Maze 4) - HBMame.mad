@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pacman (Baby Maze 4) - HBMame</name><setname>baby4</setname><name>Pacman (Baby Maze 4) - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>T-Bone</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pacman (Baby Maze 4) - HBMame</name>
+   <setname>baby4</setname>
+   <name>Pacman (Baby Maze 4) - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>T-Bone</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Gaplus</name><setname>gaplus</setname><name>Gaplus</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1984</year><category>Shooter - Vertical</category><manufacturer>Namco</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Gaplus</name>
+   <setname>gaplus</setname>
+   <name>Gaplus</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Namco</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tapper (Suntory)</name><setname>sutapper</setname><name>Tapper (Suntory)</name><year>1983</year><category>Maze / Food</category><manufacturer>Bally Midway</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tapper (Suntory)</name>
+   <setname>sutapper</setname>
+   <name>Tapper (Suntory)</name>
+   <year>1983</year>
+   <category>Maze / Food</category>
+   <manufacturer>Bally Midway</manufacturer>
+</misterarcadedescription>

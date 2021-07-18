@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Baby Pacman 3 (Alt) - HBMame</name><setname>baby3</setname><name>Baby Pacman 3 (Alt) - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>T-Bone</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Baby Pacman 3 (Alt) - HBMame</name>
+   <setname>baby3</setname>
+   <name>Baby Pacman 3 (Alt) - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>T-Bone</manufacturer>
+</misterarcadedescription>

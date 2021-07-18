@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Street Fighter II: The World Warrior (World 910129)</name><setname>sf2em</setname><name>Street Fighter II: The World Warrior (World 910129)</name><year>1991</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter II: The World Warrior (World 910129)</name>
+   <setname>sf2em</setname>
+   <name>Street Fighter II: The World Warrior (World 910129)</name>
+   <year>1991</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

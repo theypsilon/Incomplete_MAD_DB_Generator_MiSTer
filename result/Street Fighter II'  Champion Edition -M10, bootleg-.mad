@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Street Fighter II': Champion Edition (M10, bootleg)</name><setname>sf2m10</setname><name>Street Fighter II': Champion Edition (M10, bootleg)</name><year>1992</year><category>Fighting</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter II': Champion Edition (M10, bootleg)</name>
+   <setname>sf2m10</setname>
+   <name>Street Fighter II': Champion Edition (M10, bootleg)</name>
+   <year>1992</year>
+   <category>Fighting</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Berzerk (Spanish Speech, revision RC32)</name><setname>berzerks</setname><name>Berzerk (Spanish Speech, revision RC32)</name><year>1980</year><category>Maze</category><manufacturer>Stern Electronics (Sonic License)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Berzerk (Spanish Speech, revision RC32)</name>
+   <setname>berzerks</setname>
+   <name>Berzerk (Spanish Speech, revision RC32)</name>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Stern Electronics (Sonic License)</manufacturer>
+</misterarcadedescription>

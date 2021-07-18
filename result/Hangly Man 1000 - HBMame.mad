@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Hangly Man 1000 - HBMame</name><setname>hm1000</setname><name>Hangly Man 1000 - HBMame</name><year>2001</year><category>Maze / Pac-Man</category><manufacturer>Blue Justice</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Hangly Man 1000 - HBMame</name>
+   <setname>hm1000</setname>
+   <name>Hangly Man 1000 - HBMame</name>
+   <year>2001</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Blue Justice</manufacturer>
+</misterarcadedescription>

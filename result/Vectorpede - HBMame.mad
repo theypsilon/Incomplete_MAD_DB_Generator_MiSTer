@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Vectorpede - HBMame</name><setname>vectrped</setname><name>Vectorpede - HBMame</name><year>1998</year><category>Maze / Bugs</category><manufacturer>T-Bone</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vectorpede - HBMame</name>
+   <setname>vectrped</setname>
+   <name>Vectorpede - HBMame</name>
+   <year>1998</year>
+   <category>Maze / Bugs</category>
+   <manufacturer>T-Bone</manufacturer>
+</misterarcadedescription>

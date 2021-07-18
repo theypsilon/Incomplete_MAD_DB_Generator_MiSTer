@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Galaxian (New Invasion) - HBMame</name><setname>galaxni</setname><name>Galaxian (New Invasion) - HBMame</name><year>1980</year><category>Space / Galaxian</category><manufacturer>Petaco S.A.</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Galaxian (New Invasion) - HBMame</name>
+   <setname>galaxni</setname>
+   <name>Galaxian (New Invasion) - HBMame</name>
+   <year>1980</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>Petaco S.A.</manufacturer>
+</misterarcadedescription>

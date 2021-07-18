@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pang! 3 (bootleg)</name><setname>pang3b</setname><name>Pang! 3 (bootleg)</name><year>1995</year><category>Puzzle</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pang! 3 (bootleg)</name>
+   <setname>pang3b</setname>
+   <name>Pang! 3 (bootleg)</name>
+   <year>1995</year>
+   <category>Puzzle</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

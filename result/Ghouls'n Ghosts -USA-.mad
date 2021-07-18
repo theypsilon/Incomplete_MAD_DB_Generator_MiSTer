@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Ghouls'n Ghosts (USA)</name><setname>ghoulsu</setname><name>Ghouls'n Ghosts (USA)</name><year>1988</year><category>Platform</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Ghouls'n Ghosts (USA)</name>
+   <setname>ghoulsu</setname>
+   <name>Ghouls'n Ghosts (USA)</name>
+   <year>1988</year>
+   <category>Platform</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Alien vs. Predator (Hispanic 940520)</name><setname>avsph</setname><name>Alien vs. Predator (Hispanic 940520)</name><region>Hispanic</region><year>1994</year><category>Beat'em up</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Alien vs. Predator (Hispanic 940520)</name>
+   <setname>avsph</setname>
+   <name>Alien vs. Predator (Hispanic 940520)</name>
+   <region>Hispanic</region>
+   <year>1994</year>
+   <category>Beat'em up</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Kamakazi III (superg hack)</name><setname>kamakazi3</setname><name>Kamakazi III (superg hack)</name><year>1979</year><category>Space / Galaxian</category><manufacturer>hack</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Kamakazi III (superg hack)</name>
+   <setname>kamakazi3</setname>
+   <name>Kamakazi III (superg hack)</name>
+   <year>1979</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>hack</manufacturer>
+</misterarcadedescription>

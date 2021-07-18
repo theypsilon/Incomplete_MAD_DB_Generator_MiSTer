@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Turbo Tag</name><setname>turbotag</setname><name>Turbo Tag</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1985</year><category>Arena</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Turbo Tag</name>
+   <setname>turbotag</setname>
+   <name>Turbo Tag</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Arena</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

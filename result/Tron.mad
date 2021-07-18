@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Tron</name><setname>tron</setname><name>Tron</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1982</year><category>Shooter - Multidirectional</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tron</name>
+   <setname>tron</setname>
+   <name>Tron</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

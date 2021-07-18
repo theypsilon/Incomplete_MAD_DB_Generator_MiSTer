@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Super Zaxxon</name><setname>szaxxon</setname><name>Super Zaxxon</name><year>1982</year><category>Isometric Shoot'em up</category><manufacturer>Sega/Gremlin</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Zaxxon</name>
+   <setname>szaxxon</setname>
+   <name>Super Zaxxon</name>
+   <year>1982</year>
+   <category>Isometric Shoot'em up</category>
+   <manufacturer>Sega/Gremlin</manufacturer>
+</misterarcadedescription>

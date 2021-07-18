@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>1943 The Battle of Midway (US)</name><setname>1943ua</setname><name>1943 The Battle of Midway (US)</name><year>1987</year><category>Army / Airforce</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>1943 The Battle of Midway (US)</name>
+   <setname>1943ua</setname>
+   <name>1943 The Battle of Midway (US)</name>
+   <year>1987</year>
+   <category>Army / Airforce</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

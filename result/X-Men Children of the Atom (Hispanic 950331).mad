@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>X-Men: Children of the Atom (Hispanic 950331)</name><setname>xmcotah</setname><name>X-Men: Children of the Atom (Hispanic 950331)</name><region>Hispanic</region><year>1994</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>X-Men: Children of the Atom (Hispanic 950331)</name>
+   <setname>xmcotah</setname>
+   <name>X-Men: Children of the Atom (Hispanic 950331)</name>
+   <region>Hispanic</region>
+   <year>1994</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

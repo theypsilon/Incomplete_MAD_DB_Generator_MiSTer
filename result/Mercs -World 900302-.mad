@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Mercs (World 900302)</name><setname>mercs</setname><name>Mercs (World 900302)</name><year>1990</year><category>Run n Gun</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mercs (World 900302)</name>
+   <setname>mercs</setname>
+   <name>Mercs (World 900302)</name>
+   <year>1990</year>
+   <category>Run n Gun</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

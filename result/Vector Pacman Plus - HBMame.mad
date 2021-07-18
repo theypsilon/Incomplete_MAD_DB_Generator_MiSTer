@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Vector Pacman Plus - HBMame</name><setname>vectplus</setname><name>Vector Pacman Plus - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>[Bally Midway]</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vector Pacman Plus - HBMame</name>
+   <setname>vectplus</setname>
+   <name>Vector Pacman Plus - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>[Bally Midway]</manufacturer>
+</misterarcadedescription>

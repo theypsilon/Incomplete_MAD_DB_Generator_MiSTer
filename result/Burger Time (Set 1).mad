@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Burger Time</name><setname>btime</setname><name>Burger Time</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1982</year><category>Platform - Climb</category><manufacturer>Data East</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Burger Time</name>
+   <setname>btime</setname>
+   <name>Burger Time</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Data East</manufacturer>
+</misterarcadedescription>

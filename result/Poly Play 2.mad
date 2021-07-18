@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Poly Play 2</name><setname>polyplay2</setname><name>Poly Play 2</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1985</year><category>Mixed</category><manufacturer>VEB Polytechnik</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Poly Play 2</name>
+   <setname>polyplay2</setname>
+   <name>Poly Play 2</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Mixed</category>
+   <manufacturer>VEB Polytechnik</manufacturer>
+</misterarcadedescription>

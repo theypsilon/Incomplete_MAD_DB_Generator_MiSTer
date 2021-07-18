@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Double Dragon (US set 1)</name><setname>ddragonu</setname><name>Double Dragon (US set 1)</name><year>1987</year><category>Fighter / Hero</category><manufacturer>Technos Japan (Taito America license)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Double Dragon (US set 1)</name>
+   <setname>ddragonu</setname>
+   <name>Double Dragon (US set 1)</name>
+   <year>1987</year>
+   <category>Fighter / Hero</category>
+   <manufacturer>Technos Japan (Taito America license)</manufacturer>
+</misterarcadedescription>

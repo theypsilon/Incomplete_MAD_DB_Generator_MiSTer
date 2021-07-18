@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Ghouls'n Ghosts (World)</name><setname>ghouls</setname><name>Ghouls'n Ghosts (World)</name><year>1988</year><category>Platform</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Ghouls'n Ghosts (World)</name>
+   <setname>ghouls</setname>
+   <name>Ghouls'n Ghosts (World)</name>
+   <year>1988</year>
+   <category>Platform</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

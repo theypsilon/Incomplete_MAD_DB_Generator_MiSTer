@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tron (Germany)</name><setname>tronger</setname><name>Tron (Germany)</name><year>1982</year><category>Maze</category><manufacturer>Bally Midway</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tron (Germany)</name>
+   <setname>tronger</setname>
+   <name>Tron (Germany)</name>
+   <year>1982</year>
+   <category>Maze</category>
+   <manufacturer>Bally Midway</manufacturer>
+</misterarcadedescription>

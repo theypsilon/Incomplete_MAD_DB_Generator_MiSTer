@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Rush &amp; Crash (Japan)</name><setname>rushcrsh</setname><name>Rush &amp; Crash (Japan)</name><region>Japan</region><year>1986</year><category>Shooter</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Rush &amp; Crash (Japan)</name>
+   <setname>rushcrsh</setname>
+   <name>Rush &amp; Crash (Japan)</name>
+   <region>Japan</region>
+   <year>1986</year>
+   <category>Shooter</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

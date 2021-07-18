@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Bubbles (Solid Red label)</name><setname>bubblesr</setname><name>Bubbles (Solid Red label)</name><year>1982</year><category>Maze</category><manufacturer>Williams</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Bubbles (Solid Red label)</name>
+   <setname>bubblesr</setname>
+   <name>Bubbles (Solid Red label)</name>
+   <year>1982</year>
+   <category>Maze</category>
+   <manufacturer>Williams</manufacturer>
+</misterarcadedescription>

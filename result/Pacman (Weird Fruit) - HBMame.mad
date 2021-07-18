@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pacman (Weird Fruit) - HBMame</name><setname>pacwf</setname><name>Pacman (Weird Fruit) - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>Tim Appleton</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pacman (Weird Fruit) - HBMame</name>
+   <setname>pacwf</setname>
+   <name>Pacman (Weird Fruit) - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Tim Appleton</manufacturer>
+</misterarcadedescription>

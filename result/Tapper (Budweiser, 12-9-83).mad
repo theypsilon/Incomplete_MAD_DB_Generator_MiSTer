@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tapper (Budweiser, 12-9-83)</name><setname>tappera</setname><name>Tapper (Budweiser, 12-9-83)</name><year>1983</year><category>Maze / Food</category><manufacturer>Bally Midway</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tapper (Budweiser, 12-9-83)</name>
+   <setname>tappera</setname>
+   <name>Tapper (Budweiser, 12-9-83)</name>
+   <year>1983</year>
+   <category>Maze / Food</category>
+   <manufacturer>Bally Midway</manufacturer>
+</misterarcadedescription>

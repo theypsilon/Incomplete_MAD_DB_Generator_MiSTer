@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Vector Pacman (Ms. Pacman Maze 2) - HBMame</name><setname>vpacms2</setname><name>Vector Pacman (Ms. Pacman Maze 2) - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>[Midway]</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vector Pacman (Ms. Pacman Maze 2) - HBMame</name>
+   <setname>vpacms2</setname>
+   <name>Vector Pacman (Ms. Pacman Maze 2) - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>[Midway]</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Berzerk (revision RC31)</name><setname>berzerka</setname><name>Berzerk (revision RC31)</name><year>1980</year><category>Maze</category><manufacturer>Stern Electronics</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Berzerk (revision RC31)</name>
+   <setname>berzerka</setname>
+   <name>Berzerk (revision RC31)</name>
+   <year>1980</year>
+   <category>Maze</category>
+   <manufacturer>Stern Electronics</manufacturer>
+</misterarcadedescription>

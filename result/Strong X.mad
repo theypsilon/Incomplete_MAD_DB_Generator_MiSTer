@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Strong X</name><setname>strongx</setname><name>Strong X</name><year>1982</year><category>Army / Tank</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Strong X</name>
+   <setname>strongx</setname>
+   <name>Strong X</name>
+   <year>1982</year>
+   <category>Army / Tank</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

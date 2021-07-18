@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pacman (Speedy) - HBMame</name><setname>pacspeed</setname><name>Pacman (Speedy) - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>Snake Eyes</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pacman (Speedy) - HBMame</name>
+   <setname>pacspeed</setname>
+   <name>Pacman (Speedy) - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Snake Eyes</manufacturer>
+</misterarcadedescription>

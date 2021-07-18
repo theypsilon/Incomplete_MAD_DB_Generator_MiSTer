@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Action Fighter (World, S16A) [FD1089B 317-xxxx]</name><setname>afighterc</setname><name>Action Fighter (World, S16A) [FD1089B 317-xxxx]</name><region>World</region><year>1986</year><category>Shoot'em Up</category><manufacturer>Sega</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Action Fighter (World, S16A) [FD1089B 317-xxxx]</name>
+   <setname>afighterc</setname>
+   <name>Action Fighter (World, S16A) [FD1089B 317-xxxx]</name>
+   <region>World</region>
+   <year>1986</year>
+   <category>Shoot'em Up</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

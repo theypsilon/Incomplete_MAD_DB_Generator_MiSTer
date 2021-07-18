@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)</name><setname>strideruc</setname><name>Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)</name><year>1989</year><category>Platform</category><manufacturer>bootleg (Capcom)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)</name>
+   <setname>strideruc</setname>
+   <name>Strider (USA, B-Board 90629B-3, buggy Street Fighter II conversion)</name>
+   <year>1989</year>
+   <category>Platform</category>
+   <manufacturer>bootleg (Capcom)</manufacturer>
+</misterarcadedescription>

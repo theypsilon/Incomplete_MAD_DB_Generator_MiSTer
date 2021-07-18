@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Gauntlet (Japanese, rev 13)</name><setname>gauntletj</setname><name>Gauntlet (Japanese, rev 13)</name><year>1985</year><category>Adventure / Fantasy</category><manufacturer>Atari Games</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Gauntlet (Japanese, rev 13)</name>
+   <setname>gauntletj</setname>
+   <name>Gauntlet (Japanese, rev 13)</name>
+   <year>1985</year>
+   <category>Adventure / Fantasy</category>
+   <manufacturer>Atari Games</manufacturer>
+</misterarcadedescription>

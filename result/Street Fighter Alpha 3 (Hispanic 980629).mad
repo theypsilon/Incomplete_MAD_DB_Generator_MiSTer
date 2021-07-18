@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Street Fighter Alpha 3 (Hispanic 980629)</name><setname>sfa3hr1</setname><name>Street Fighter Alpha 3 (Hispanic 980629)</name><region>Hispanic</region><year>1998</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter Alpha 3 (Hispanic 980629)</name>
+   <setname>sfa3hr1</setname>
+   <name>Street Fighter Alpha 3 (Hispanic 980629)</name>
+   <region>Hispanic</region>
+   <year>1998</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

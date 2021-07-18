@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pacman Plus After Dark - HBMame</name><setname>pplusad</setname><name>Pacman Plus After Dark - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>[Bally Midway]</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pacman Plus After Dark - HBMame</name>
+   <setname>pplusad</setname>
+   <name>Pacman Plus After Dark - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>[Bally Midway]</manufacturer>
+</misterarcadedescription>

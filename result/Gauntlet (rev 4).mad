@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Gauntlet (rev 4)</name><setname>gauntletr4</setname><name>Gauntlet (rev 4)</name><year>1985</year><category>Adventure / Fantasy</category><manufacturer>Atari Games</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Gauntlet (rev 4)</name>
+   <setname>gauntletr4</setname>
+   <name>Gauntlet (rev 4)</name>
+   <year>1985</year>
+   <category>Adventure / Fantasy</category>
+   <manufacturer>Atari Games</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Fenix (Niemer bootleg of Phoenix)</name><setname>fenixn</setname><name>Fenix (Niemer bootleg of Phoenix)</name><year>1980</year><category>Space / Shooter</category><manufacturer>bootleg (Niemer)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Fenix (Niemer bootleg of Phoenix)</name>
+   <setname>fenixn</setname>
+   <name>Fenix (Niemer bootleg of Phoenix)</name>
+   <year>1980</year>
+   <category>Space / Shooter</category>
+   <manufacturer>bootleg (Niemer)</manufacturer>
+</misterarcadedescription>
