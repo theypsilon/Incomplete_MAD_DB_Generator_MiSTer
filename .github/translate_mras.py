@@ -31,6 +31,7 @@ import time
 import json
 import xml.etree.cElementTree as ET
 import urllib.request
+from xml.dom import minidom
 
 def main():
 
@@ -42,6 +43,7 @@ def main():
     mister_devel_mras = list(MraFinder('BetaDistrib/_Arcade').find_all_mras())
     jtbin_mras = list(MraFinder('jtbin/mra').find_all_mras())
 
+    run_succesfully('rm -rf result || true')
     run_succesfully('mkdir -p result')
     mra_reader = MraReader('result')
     for mra in (mister_devel_mras + jtbin_mras):
@@ -112,7 +114,7 @@ def read_mra_fields(mra_path, tags):
 
 def lineno():
     return getframeinfo(currentframe().f_back).lineno
-    
+
 class MraReader:
     def __init__(self, targetdir):
         self._targetdir = targetdir
@@ -132,8 +134,7 @@ class MraReader:
             'manufacturer'
         ])
 
-        root = ET.Element("root")
-        doc = ET.SubElement(root, "misterarcadedescription")
+        doc = ET.Element("misterarcadedescription")
 
         ET.SubElement(doc, "name").text = fields["name"]
         ET.SubElement(doc, "setname").text = fields["setname"]
@@ -148,8 +149,9 @@ class MraReader:
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
 
-        tree = ET.ElementTree(root)
-        tree.write(self._targetdir + "/" + mra.stem + ".mad")
+        xmlstr = minidom.parseString(ET.tostring(doc)).toprettyxml(indent="   ")
+        with open(self._targetdir + "/" + mra.stem + ".mad", "w") as f:
+            f.write(xmlstr)
 
 def create_orphan_branch(branch):
     run_succesfully('git checkout -qf --orphan %s' % branch)
