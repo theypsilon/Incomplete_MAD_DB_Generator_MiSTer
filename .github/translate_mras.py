@@ -47,6 +47,7 @@ def main():
     run_succesfully('mkdir -p result')
     mra_reader = MraReader('result')
     for mra in (mister_devel_mras + jtbin_mras):
+        print(str(mra))
         mra_reader.translate_mra(mra)
 
     run_succesfully('git add result')
