@@ -110,6 +110,9 @@ def read_mra_fields(mra_path, tags):
 
     return fields
 
+def lineno():
+    return getframeinfo(currentframe().f_back).lineno
+    
 class MraReader:
     def __init__(self, targetdir):
         self._targetdir = targetdir
