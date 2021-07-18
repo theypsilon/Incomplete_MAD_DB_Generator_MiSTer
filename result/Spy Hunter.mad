@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Spy Hunter</name><setname>spyhunt</setname><name>Spy Hunter</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1983</year><category>Shooter - Vertical</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Spy Hunter</name>
+   <setname>spyhunt</setname>
+   <name>Spy Hunter</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1983</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

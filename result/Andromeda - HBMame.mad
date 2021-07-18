@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Andromeda - HBMame</name><setname>andromd</setname><name>Andromeda - HBMame</name><year>1979</year><category>Space / Galaxian</category><manufacturer>hack</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Andromeda - HBMame</name>
+   <setname>andromd</setname>
+   <name>Andromeda - HBMame</name>
+   <year>1979</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>hack</manufacturer>
+</misterarcadedescription>

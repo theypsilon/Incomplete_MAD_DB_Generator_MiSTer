@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Vector Xens Revenge - HBMame</name><setname>vectxens</setname><name>Vector Xens Revenge - HBMame</name><year>2000</year><category>Maze / Pac-Man</category><manufacturer>Jeff Morris</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vector Xens Revenge - HBMame</name>
+   <setname>vectxens</setname>
+   <name>Vector Xens Revenge - HBMame</name>
+   <year>2000</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Jeff Morris</manufacturer>
+</misterarcadedescription>

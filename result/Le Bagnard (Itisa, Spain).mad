@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Le Bagnard (Itisa, Spain)</name><setname>bagnardi</setname><name>Le Bagnard (Itisa, Spain)</name><year>1982</year><category>Platform / Extra</category><manufacturer>Valadon Automation (Itisa license)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Le Bagnard (Itisa, Spain)</name>
+   <setname>bagnardi</setname>
+   <name>Le Bagnard (Itisa, Spain)</name>
+   <year>1982</year>
+   <category>Platform / Extra</category>
+   <manufacturer>Valadon Automation (Itisa license)</manufacturer>
+</misterarcadedescription>

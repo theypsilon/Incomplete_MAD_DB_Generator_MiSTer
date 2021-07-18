@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Arkanoid (US, older)</name><setname>arkanoiduo</setname><name>Arkanoid (US, older)</name><year>1986</year><category>Platform / Breakout</category><manufacturer>Taito (modified from Tayto bootleg)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Arkanoid (US, older)</name>
+   <setname>arkanoiduo</setname>
+   <name>Arkanoid (US, older)</name>
+   <year>1986</year>
+   <category>Platform / Breakout</category>
+   <manufacturer>Taito (modified from Tayto bootleg)</manufacturer>
+</misterarcadedescription>

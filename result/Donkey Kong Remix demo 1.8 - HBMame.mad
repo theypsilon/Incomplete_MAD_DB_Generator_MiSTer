@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Donkey Kong Remix demo 1.8 - HBMame</name><setname>dkrdemo</setname><name>Donkey Kong Remix demo 1.8 - HBMame</name><year>2015</year><category>Maze / Monkeys</category><manufacturer>Sock Master</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Donkey Kong Remix demo 1.8 - HBMame</name>
+   <setname>dkrdemo</setname>
+   <name>Donkey Kong Remix demo 1.8 - HBMame</name>
+   <year>2015</year>
+   <category>Maze / Monkeys</category>
+   <manufacturer>Sock Master</manufacturer>
+</misterarcadedescription>

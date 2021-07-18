@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Capcom Sports Club (Asia 970722)</name><setname>cscluba</setname><name>Capcom Sports Club (Asia 970722)</name><region>Asia</region><year>1997</year><category>MultiGame</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Capcom Sports Club (Asia 970722)</name>
+   <setname>cscluba</setname>
+   <name>Capcom Sports Club (Asia 970722)</name>
+   <region>Asia</region>
+   <year>1997</year>
+   <category>MultiGame</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

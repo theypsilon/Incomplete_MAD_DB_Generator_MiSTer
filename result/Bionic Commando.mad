@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Bionic Commando (Euro)</name><setname>bionicc</setname><name>Bionic Commando (Euro)</name><year>1987</year><category>Army / Fighter</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Bionic Commando (Euro)</name>
+   <setname>bionicc</setname>
+   <name>Bionic Commando (Euro)</name>
+   <year>1987</year>
+   <category>Army / Fighter</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

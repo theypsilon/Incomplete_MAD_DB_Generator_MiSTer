@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Galaxy Wars</name><setname>galxwars</setname><name>Galaxy Wars</name><flip>yes</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1979</year><category>Shooter - Gallery</category><manufacturer>Universal</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Galaxy Wars</name>
+   <setname>galxwars</setname>
+   <name>Galaxy Wars</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1979</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Universal</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pleiads (Centuri)</name><setname>pleiadce</setname><name>Pleiads (Centuri)</name><year>1981</year><category>Space / Shooter</category><manufacturer>Centuri</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pleiads (Centuri)</name>
+   <setname>pleiadce</setname>
+   <name>Pleiads (Centuri)</name>
+   <year>1981</year>
+   <category>Space / Shooter</category>
+   <manufacturer>Centuri</manufacturer>
+</misterarcadedescription>

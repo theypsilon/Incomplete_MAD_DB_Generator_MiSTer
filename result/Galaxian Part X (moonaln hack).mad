@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Galaxian Part X (moonaln hack)</name><setname>galapx</setname><name>Galaxian Part X (moonaln hack)</name><year>1979</year><category>Space / Galaxian</category><manufacturer>hack</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Galaxian Part X (moonaln hack)</name>
+   <setname>galapx</setname>
+   <name>Galaxian Part X (moonaln hack)</name>
+   <year>1979</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>hack</manufacturer>
+</misterarcadedescription>

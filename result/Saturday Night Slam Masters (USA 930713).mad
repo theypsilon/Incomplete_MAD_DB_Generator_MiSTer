@@ -1,1 +1,6 @@
-<root><misterarcadedescription><name>Saturday Night Slam Masters (USA 930713)</name><setname>slammastu</setname><name>Saturday Night Slam Masters (USA 930713)</name></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Saturday Night Slam Masters (USA 930713)</name>
+   <setname>slammastu</setname>
+   <name>Saturday Night Slam Masters (USA 930713)</name>
+</misterarcadedescription>

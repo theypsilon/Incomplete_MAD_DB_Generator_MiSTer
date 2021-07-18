@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Meteorite (Proel bootleg of Asteroids)</name><setname>meteorite</setname><name>Meteorite (Proel bootleg of Asteroids)</name><year>1979</year><category>Space / Asteroids</category><manufacturer>bootleg (Proel)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Meteorite (Proel bootleg of Asteroids)</name>
+   <setname>meteorite</setname>
+   <name>Meteorite (Proel bootleg of Asteroids)</name>
+   <year>1979</year>
+   <category>Space / Asteroids</category>
+   <manufacturer>bootleg (Proel)</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Super Bobble Bobble (bootleg, set 4)</name><setname>sboblbobld</setname><name>Super Bobble Bobble (bootleg, set 4)</name><year>1986</year><category>Platform</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Bobble Bobble (bootleg, set 4)</name>
+   <setname>sboblbobld</setname>
+   <name>Super Bobble Bobble (bootleg, set 4)</name>
+   <year>1986</year>
+   <category>Platform</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

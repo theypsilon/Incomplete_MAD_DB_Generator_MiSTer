@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Super Bagman (version 3)</name><setname>sbagman2</setname><name>Super Bagman (version 3)</name><year>1984</year><category>Platform / Extra</category><manufacturer>Valadon Automation</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Bagman (version 3)</name>
+   <setname>sbagman2</setname>
+   <name>Super Bagman (version 3)</name>
+   <year>1984</year>
+   <category>Platform / Extra</category>
+   <manufacturer>Valadon Automation</manufacturer>
+</misterarcadedescription>

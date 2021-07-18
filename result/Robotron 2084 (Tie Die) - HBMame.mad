@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Robotron 2084 (Tie Die) - HBMame</name><setname>robotrontie</setname><name>Robotron 2084 (Tie Die) - HBMame</name><year>2014</year><category>Adventure / Apocalyptic</category><manufacturer>Vid Kidz</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Robotron 2084 (Tie Die) - HBMame</name>
+   <setname>robotrontie</setname>
+   <name>Robotron 2084 (Tie Die) - HBMame</name>
+   <year>2014</year>
+   <category>Adventure / Apocalyptic</category>
+   <manufacturer>Vid Kidz</manufacturer>
+</misterarcadedescription>

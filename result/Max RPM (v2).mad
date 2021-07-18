@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Max RPM</name><setname>maxrpm</setname><name>Max RPM</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1986</year><category>Racing</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Max RPM</name>
+   <setname>maxrpm</setname>
+   <name>Max RPM</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1986</year>
+   <category>Racing</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

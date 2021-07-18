@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Rygar</name><setname>rygar</setname><name>Rygar</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1986</year><category>Platform</category><manufacturer>Tecmo</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Rygar</name>
+   <setname>rygar</setname>
+   <name>Rygar</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1986</year>
+   <category>Platform</category>
+   <manufacturer>Tecmo</manufacturer>
+</misterarcadedescription>

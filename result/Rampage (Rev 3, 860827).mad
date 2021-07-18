@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Rampage</name><setname>rampage</setname><name>Rampage</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1986</year><category>Platform - Climb</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Rampage</name>
+   <setname>rampage</setname>
+   <name>Rampage</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1986</year>
+   <category>Platform - Climb</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

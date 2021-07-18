@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tiger Road (US)</name><setname>tigeroad</setname><name>Tiger Road (US)</name><year>1987</year><category>Fighter / Asian</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tiger Road (US)</name>
+   <setname>tigeroad</setname>
+   <name>Tiger Road (US)</name>
+   <year>1987</year>
+   <category>Fighter / Asian</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

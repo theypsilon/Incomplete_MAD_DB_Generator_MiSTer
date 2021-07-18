@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Time Pilot (Centuri)</name><setname>timepltc</setname><name>Time Pilot (Centuri)</name><year>1982</year><category>Army / Dog-Fight</category><manufacturer>Konami (Centuri license)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Time Pilot (Centuri)</name>
+   <setname>timepltc</setname>
+   <name>Time Pilot (Centuri)</name>
+   <year>1982</year>
+   <category>Army / Dog-Fight</category>
+   <manufacturer>Konami (Centuri license)</manufacturer>
+</misterarcadedescription>

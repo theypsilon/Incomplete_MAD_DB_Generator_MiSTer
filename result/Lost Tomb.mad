@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Lost Tomb</name><setname>losttomb</setname><name>Lost Tomb</name><flip>yes</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1982</year><category>Maze</category><manufacturer>Stern</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Lost Tomb</name>
+   <setname>losttomb</setname>
+   <name>Lost Tomb</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Maze</category>
+   <manufacturer>Stern</manufacturer>
+</misterarcadedescription>

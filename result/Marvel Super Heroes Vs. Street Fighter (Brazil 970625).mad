@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Marvel Super Heroes Vs. Street Fighter (Brazil 970625)</name><setname>mshvsfb1</setname><name>Marvel Super Heroes Vs. Street Fighter (Brazil 970625)</name><region>World</region><year>1997</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Marvel Super Heroes Vs. Street Fighter (Brazil 970625)</name>
+   <setname>mshvsfb1</setname>
+   <name>Marvel Super Heroes Vs. Street Fighter (Brazil 970625)</name>
+   <region>World</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

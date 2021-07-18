@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Super Puzzle Fighter II X (Japan 960531)</name><setname>spf2xj</setname><name>Super Puzzle Fighter II X (Japan 960531)</name><region>Japan</region><year>1996</year><category>Puzzle</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Puzzle Fighter II X (Japan 960531)</name>
+   <setname>spf2xj</setname>
+   <name>Super Puzzle Fighter II X (Japan 960531)</name>
+   <region>Japan</region>
+   <year>1996</year>
+   <category>Puzzle</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

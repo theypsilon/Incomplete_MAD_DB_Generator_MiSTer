@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Mega Man: The Power Battle (CPS1, USA 951006)</name><setname>megaman</setname><name>Mega Man: The Power Battle (CPS1, USA 951006)</name><year>1995</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mega Man: The Power Battle (CPS1, USA 951006)</name>
+   <setname>megaman</setname>
+   <name>Mega Man: The Power Battle (CPS1, USA 951006)</name>
+   <year>1995</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

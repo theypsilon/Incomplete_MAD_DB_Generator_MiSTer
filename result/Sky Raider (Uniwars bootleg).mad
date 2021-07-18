@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Sky Raider (Uniwars bootleg)</name><setname>skyraidr</setname><name>Sky Raider (Uniwars bootleg)</name><year>1980</year><category>Space / Galaxian</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Sky Raider (Uniwars bootleg)</name>
+   <setname>skyraidr</setname>
+   <name>Sky Raider (Uniwars bootleg)</name>
+   <year>1980</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

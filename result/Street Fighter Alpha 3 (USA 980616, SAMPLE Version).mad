@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Street Fighter Alpha 3 (USA 980616, Sample Version)</name><setname>sfa3us</setname><name>Street Fighter Alpha 3 (USA 980616, Sample Version)</name><region>USA</region><year>1998</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter Alpha 3 (USA 980616, Sample Version)</name>
+   <setname>sfa3us</setname>
+   <name>Street Fighter Alpha 3 (USA 980616, Sample Version)</name>
+   <region>USA</region>
+   <year>1998</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

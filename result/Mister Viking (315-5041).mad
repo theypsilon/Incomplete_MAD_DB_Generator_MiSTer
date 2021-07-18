@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Mister Viking</name><setname>mrviking</setname><name>Mister Viking</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1984</year><category>Shooter - Vertical</category><manufacturer>Sega</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mister Viking</name>
+   <setname>mrviking</setname>
+   <name>Mister Viking</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Shooter - Vertical</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

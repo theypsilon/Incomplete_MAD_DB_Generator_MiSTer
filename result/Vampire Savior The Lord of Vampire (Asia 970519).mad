@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Vampire Savior: The Lord of Vampire (Asia 970519)</name><setname>vsava</setname><name>Vampire Savior: The Lord of Vampire (Asia 970519)</name><region>Asia</region><year>1997</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vampire Savior: The Lord of Vampire (Asia 970519)</name>
+   <setname>vsava</setname>
+   <name>Vampire Savior: The Lord of Vampire (Asia 970519)</name>
+   <region>Asia</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

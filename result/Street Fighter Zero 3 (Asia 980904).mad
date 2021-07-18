@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Street Fighter Zero 3 (Asia 980904)</name><setname>sfz3a</setname><name>Street Fighter Zero 3 (Asia 980904)</name><region>Asia</region><year>1998</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter Zero 3 (Asia 980904)</name>
+   <setname>sfz3a</setname>
+   <name>Street Fighter Zero 3 (Asia 980904)</name>
+   <region>Asia</region>
+   <year>1998</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

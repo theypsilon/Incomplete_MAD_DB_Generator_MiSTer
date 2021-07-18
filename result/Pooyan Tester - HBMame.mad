@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Pooyan Tester - HBMame</name><setname>pooyandiag</setname><name>Pooyan Tester - HBMame</name><year>2017</year><category>Maze / Balloons</category><manufacturer>Shoestring</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pooyan Tester - HBMame</name>
+   <setname>pooyandiag</setname>
+   <name>Pooyan Tester - HBMame</name>
+   <year>2017</year>
+   <category>Maze / Balloons</category>
+   <manufacturer>Shoestring</manufacturer>
+</misterarcadedescription>

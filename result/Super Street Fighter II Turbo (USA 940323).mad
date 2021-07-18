@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Super Street Fighter II Turbo (USA 940323)</name><setname>ssf2tu</setname><name>Super Street Fighter II Turbo (USA 940323)</name><region>USA</region><year>1994</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Street Fighter II Turbo (USA 940323)</name>
+   <setname>ssf2tu</setname>
+   <name>Super Street Fighter II Turbo (USA 940323)</name>
+   <region>USA</region>
+   <year>1994</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

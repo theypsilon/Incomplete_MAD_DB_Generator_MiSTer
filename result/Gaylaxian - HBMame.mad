@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Gaylaxian - HBMame</name><setname>gaylaxn</setname><name>Gaylaxian - HBMame</name><year>1998</year><category>Space / Galaxian</category><manufacturer>The Dog</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Gaylaxian - HBMame</name>
+   <setname>gaylaxn</setname>
+   <name>Gaylaxian - HBMame</name>
+   <year>1998</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>The Dog</manufacturer>
+</misterarcadedescription>

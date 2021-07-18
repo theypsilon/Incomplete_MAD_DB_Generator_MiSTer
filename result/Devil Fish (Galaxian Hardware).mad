@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Devil Fish</name><setname>devilfsg</setname><name>Devil Fish</name><flip>yes</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1984</year><category>Maze</category><manufacturer>Vision</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Devil Fish</name>
+   <setname>devilfsg</setname>
+   <name>Devil Fish</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Maze</category>
+   <manufacturer>Vision</manufacturer>
+</misterarcadedescription>

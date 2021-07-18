@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>Solar Fox</name><setname>solarfox</setname><name>Solar Fox</name><flip>no</flip><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1980</year><category>Shooter - Multidirectional</category><manufacturer>Bally</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Solar Fox</name>
+   <setname>solarfox</setname>
+   <name>Solar Fox</name>
+   <flip>no</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1980</year>
+   <category>Shooter - Multidirectional</category>
+   <manufacturer>Bally</manufacturer>
+</misterarcadedescription>

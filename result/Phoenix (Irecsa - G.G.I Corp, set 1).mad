@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Phoenix (Irecsa - G.G.I Corp, set 1)</name><setname>phoenixc</setname><name>Phoenix (Irecsa - G.G.I Corp, set 1)</name><year>1981</year><category>Space / Shooter</category><manufacturer>bootleg? (Irecsa / G.G.I Corp)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Phoenix (Irecsa - G.G.I Corp, set 1)</name>
+   <setname>phoenixc</setname>
+   <name>Phoenix (Irecsa - G.G.I Corp, set 1)</name>
+   <year>1981</year>
+   <category>Space / Shooter</category>
+   <manufacturer>bootleg? (Irecsa / G.G.I Corp)</manufacturer>
+</misterarcadedescription>

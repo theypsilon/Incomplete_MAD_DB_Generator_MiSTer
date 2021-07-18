@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Gauntlet (Spanish, rev 15)</name><setname>gauntlets</setname><name>Gauntlet (Spanish, rev 15)</name><year>1985</year><category>Adventure / Fantasy</category><manufacturer>Atari Games</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Gauntlet (Spanish, rev 15)</name>
+   <setname>gauntlets</setname>
+   <name>Gauntlet (Spanish, rev 15)</name>
+   <year>1985</year>
+   <category>Adventure / Fantasy</category>
+   <manufacturer>Atari Games</manufacturer>
+</misterarcadedescription>

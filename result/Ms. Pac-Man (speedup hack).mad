@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Ms. Pac-Man (speedup hack)</name><setname>mspacmnf</setname><name>Ms. Pac-Man (speedup hack)</name><year>1981</year><category>Maze / Pac-Man</category><manufacturer>hack</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Ms. Pac-Man (speedup hack)</name>
+   <setname>mspacmnf</setname>
+   <name>Ms. Pac-Man (speedup hack)</name>
+   <year>1981</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>hack</manufacturer>
+</misterarcadedescription>

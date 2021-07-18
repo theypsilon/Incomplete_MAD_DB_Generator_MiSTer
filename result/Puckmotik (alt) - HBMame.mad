@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Puckmotik (alt) - HBMame</name><setname>puckmot1</setname><name>Puckmotik (alt) - HBMame</name><year>2007</year><category>Maze / Pac-Man</category><manufacturer>Hebus</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Puckmotik (alt) - HBMame</name>
+   <setname>puckmot1</setname>
+   <name>Puckmotik (alt) - HBMame</name>
+   <year>2007</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Hebus</manufacturer>
+</misterarcadedescription>

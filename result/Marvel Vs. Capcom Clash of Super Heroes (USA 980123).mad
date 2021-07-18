@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</name><setname>mvscu</setname><name>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</name><region>USA</region><year>1998</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</name>
+   <setname>mvscu</setname>
+   <name>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</name>
+   <region>USA</region>
+   <year>1998</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,13 @@
-<root><misterarcadedescription><name>My Hero</name><setname>myhero</setname><name>My Hero</name><resolution>15kHz</resolution><region>USA</region><homebrew>no</homebrew><bootleg>no</bootleg><year>1985</year><category>Platform</category><manufacturer>Sega</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>My Hero</name>
+   <setname>myhero</setname>
+   <name>My Hero</name>
+   <resolution>15kHz</resolution>
+   <region>USA</region>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Platform</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

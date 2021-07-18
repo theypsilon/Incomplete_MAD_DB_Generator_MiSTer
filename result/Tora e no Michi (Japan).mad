@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tora e no Michi (Japan)</name><setname>toramich</setname><name>Tora e no Michi (Japan)</name><year>1987</year><category>Fighter / Asian</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tora e no Michi (Japan)</name>
+   <setname>toramich</setname>
+   <name>Tora e no Michi (Japan)</name>
+   <year>1987</year>
+   <category>Fighter / Asian</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

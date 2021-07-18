@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Super Street Fighter II X: Grand Master Challenge (Japan 940223, Rental Version)</name><setname>ssf2xjr1r</setname><name>Super Street Fighter II X: Grand Master Challenge (Japan 940223, Rental Version)</name><region>Japan</region><year>1994</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Street Fighter II X: Grand Master Challenge (Japan 940223, Rental Version)</name>
+   <setname>ssf2xjr1r</setname>
+   <name>Super Street Fighter II X: Grand Master Challenge (Japan 940223, Rental Version)</name>
+   <region>Japan</region>
+   <year>1994</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

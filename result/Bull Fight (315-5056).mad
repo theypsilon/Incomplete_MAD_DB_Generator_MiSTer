@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Bull Fight</name><setname>bullfgt</setname><name>Bull Fight</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1984</year><category>Arena</category><manufacturer>Sega</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Bull Fight</name>
+   <setname>bullfgt</setname>
+   <name>Bull Fight</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1984</year>
+   <category>Arena</category>
+   <manufacturer>Sega</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Mayday (set 3)</name><setname>maydayb</setname><name>Mayday (set 3)</name><year>1980</year><category>Space / Defender</category><manufacturer>Hoei</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mayday (set 3)</name>
+   <setname>maydayb</setname>
+   <name>Mayday (set 3)</name>
+   <year>1980</year>
+   <category>Space / Defender</category>
+   <manufacturer>Hoei</manufacturer>
+</misterarcadedescription>

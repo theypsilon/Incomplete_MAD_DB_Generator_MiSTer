@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Zero Time (Petaco S.A.)</name><setname>zerotime</setname><name>Zero Time (Petaco S.A.)</name><year>1979</year><category>Space / Galaxian</category><manufacturer>bootleg? (Petaco S.A.)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Zero Time (Petaco S.A.)</name>
+   <setname>zerotime</setname>
+   <name>Zero Time (Petaco S.A.)</name>
+   <year>1979</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>bootleg? (Petaco S.A.)</manufacturer>
+</misterarcadedescription>

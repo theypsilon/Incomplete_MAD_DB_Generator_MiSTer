@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Galaxian (Taito)</name><setname>galaxiant</setname><name>Galaxian (Taito)</name><year>1979</year><category>Space / Galaxian</category><manufacturer>Namco (Taito license)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Galaxian (Taito)</name>
+   <setname>galaxiant</setname>
+   <name>Galaxian (Taito)</name>
+   <year>1979</year>
+   <category>Space / Galaxian</category>
+   <manufacturer>Namco (Taito license)</manufacturer>
+</misterarcadedescription>

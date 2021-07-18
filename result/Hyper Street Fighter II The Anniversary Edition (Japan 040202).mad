@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Hyper Street Fighter II: The Anniversary Edition (Japan 040202)</name><setname>hsf2j</setname><name>Hyper Street Fighter II: The Anniversary Edition (Japan 040202)</name><region>Japan</region><year>2004</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Hyper Street Fighter II: The Anniversary Edition (Japan 040202)</name>
+   <setname>hsf2j</setname>
+   <name>Hyper Street Fighter II: The Anniversary Edition (Japan 040202)</name>
+   <region>Japan</region>
+   <year>2004</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

@@ -1,1 +1,12 @@
-<root><misterarcadedescription><name>Horizon (Irem)</name><setname>horizon</setname><name>Horizon (Irem)</name><resolution>15kHz</resolution><homebrew>no</homebrew><bootleg>no</bootleg><year>1985</year><category>Shooter - Horizontal</category><manufacturer>Irem</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Horizon (Irem)</name>
+   <setname>horizon</setname>
+   <name>Horizon (Irem)</name>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1985</year>
+   <category>Shooter - Horizontal</category>
+   <manufacturer>Irem</manufacturer>
+</misterarcadedescription>

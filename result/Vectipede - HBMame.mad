@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Vectipede - HBMame</name><setname>vectiped</setname><name>Vectipede - HBMame</name><year>1998</year><category>Maze / Bugs</category><manufacturer>The Dog</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Vectipede - HBMame</name>
+   <setname>vectiped</setname>
+   <name>Vectipede - HBMame</name>
+   <year>1998</year>
+   <category>Maze / Bugs</category>
+   <manufacturer>The Dog</manufacturer>
+</misterarcadedescription>

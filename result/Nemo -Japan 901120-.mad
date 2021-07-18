@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Nemo (Japan 901120)</name><setname>nemoj</setname><name>Nemo (Japan 901120)</name><year>1990</year><category>Platform</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Nemo (Japan 901120)</name>
+   <setname>nemoj</setname>
+   <name>Nemo (Japan 901120)</name>
+   <year>1990</year>
+   <category>Platform</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

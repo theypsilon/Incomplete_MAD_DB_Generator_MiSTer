@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Jacman - HBMame</name><setname>jacman</setname><name>Jacman - HBMame</name><year>2001</year><category>Maze / Pac-Man</category><manufacturer>Brent Cobb</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Jacman - HBMame</name>
+   <setname>jacman</setname>
+   <name>Jacman - HBMame</name>
+   <year>2001</year>
+   <category>Maze / Pac-Man</category>
+   <manufacturer>Brent Cobb</manufacturer>
+</misterarcadedescription>

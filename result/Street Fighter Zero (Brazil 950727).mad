@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Street Fighter Zero (Brazil 950727)</name><setname>sfzbr1</setname><name>Street Fighter Zero (Brazil 950727)</name><region>World</region><year>1995</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Street Fighter Zero (Brazil 950727)</name>
+   <setname>sfzbr1</setname>
+   <name>Street Fighter Zero (Brazil 950727)</name>
+   <region>World</region>
+   <year>1995</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

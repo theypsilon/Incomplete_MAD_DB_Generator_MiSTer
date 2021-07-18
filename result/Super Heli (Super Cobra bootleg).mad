@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Super Heli (Super Cobra bootleg)</name><setname>suprheli</setname><name>Super Heli (Super Cobra bootleg)</name><year>1981</year><category>Army / Helicopter</category><manufacturer>bootleg</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Super Heli (Super Cobra bootleg)</name>
+   <setname>suprheli</setname>
+   <name>Super Heli (Super Cobra bootleg)</name>
+   <year>1981</year>
+   <category>Army / Helicopter</category>
+   <manufacturer>bootleg</manufacturer>
+</misterarcadedescription>

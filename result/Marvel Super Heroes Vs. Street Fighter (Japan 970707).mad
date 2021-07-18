@@ -1,1 +1,10 @@
-<root><misterarcadedescription><name>Marvel Super Heroes Vs. Street Fighter (Japan 970707)</name><setname>mshvsfj</setname><name>Marvel Super Heroes Vs. Street Fighter (Japan 970707)</name><region>Japan</region><year>1997</year><category>Fighting</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Marvel Super Heroes Vs. Street Fighter (Japan 970707)</name>
+   <setname>mshvsfj</setname>
+   <name>Marvel Super Heroes Vs. Street Fighter (Japan 970707)</name>
+   <region>Japan</region>
+   <year>1997</year>
+   <category>Fighting</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>

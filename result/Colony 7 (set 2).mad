@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Colony 7 (set 2)</name><setname>colony7a</setname><name>Colony 7 (set 2)</name><year>1981</year><category>Space / Shooter</category><manufacturer>Taito</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Colony 7 (set 2)</name>
+   <setname>colony7a</setname>
+   <name>Colony 7 (set 2)</name>
+   <year>1981</year>
+   <category>Space / Shooter</category>
+   <manufacturer>Taito</manufacturer>
+</misterarcadedescription>

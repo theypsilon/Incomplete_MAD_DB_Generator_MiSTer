@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Varth: Operation Thunderstorm (USA 920612)</name><setname>varthu</setname><name>Varth: Operation Thunderstorm (USA 920612)</name><year>1992</year><category>Shoot em up</category><manufacturer>Capcom (Romstar license)</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Varth: Operation Thunderstorm (USA 920612)</name>
+   <setname>varthu</setname>
+   <name>Varth: Operation Thunderstorm (USA 920612)</name>
+   <year>1992</year>
+   <category>Shoot em up</category>
+   <manufacturer>Capcom (Romstar license)</manufacturer>
+</misterarcadedescription>

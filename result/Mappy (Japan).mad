@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Mappy (Japan)</name><setname>mappyj</setname><name>Mappy (Japan)</name><year>1983</year><category>Maze / Cat &amp; Mouse</category><manufacturer>Namco</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Mappy (Japan)</name>
+   <setname>mappyj</setname>
+   <name>Mappy (Japan)</name>
+   <year>1983</year>
+   <category>Maze / Cat &amp; Mouse</category>
+   <manufacturer>Namco</manufacturer>
+</misterarcadedescription>

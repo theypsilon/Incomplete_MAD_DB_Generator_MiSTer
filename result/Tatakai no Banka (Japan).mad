@@ -1,1 +1,9 @@
-<root><misterarcadedescription><name>Tatakai no Banka (Japan)</name><setname>trojanj</setname><name>Tatakai no Banka (Japan)</name><year>1986</year><category>Hack n Slash</category><manufacturer>Capcom</manufacturer></misterarcadedescription></root>
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Tatakai no Banka (Japan)</name>
+   <setname>trojanj</setname>
+   <name>Tatakai no Banka (Japan)</name>
+   <year>1986</year>
+   <category>Hack n Slash</category>
+   <manufacturer>Capcom</manufacturer>
+</misterarcadedescription>
