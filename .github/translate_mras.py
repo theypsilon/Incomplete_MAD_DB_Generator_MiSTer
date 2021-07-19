@@ -133,8 +133,6 @@ class MraReader:
             'flip',
             'resolution',
             'region',
-            'homebrew',
-            'bootleg',
             'year',
             'category',
             'manufacturer'
@@ -147,8 +145,6 @@ class MraReader:
         set_if_not_empty(doc, fields, 'flip')
         set_if_not_empty(doc, fields, 'resolution')
         set_if_not_empty(doc, fields, 'region')
-        set_if_not_empty(doc, fields, 'homebrew')
-        set_if_not_empty(doc, fields, 'bootleg')
         set_if_not_empty(doc, fields, 'year')
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
