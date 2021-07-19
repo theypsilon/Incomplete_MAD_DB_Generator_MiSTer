@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<misterarcadedescription>
+   <name>Pisces</name>
+   <setname>pisces</setname>
+   <name>Pisces</name>
+   <flip>yes</flip>
+   <resolution>15kHz</resolution>
+   <homebrew>no</homebrew>
+   <bootleg>no</bootleg>
+   <year>1982</year>
+   <category>Shooter - Gallery</category>
+   <manufacturer>Subelectro</manufacturer>
+</misterarcadedescription>
