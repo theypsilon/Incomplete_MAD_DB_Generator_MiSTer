@@ -20,3 +20,5 @@ jobs:
         git config --global user.email "theypsilon@gmail.com"
         git config --global user.name "The CI/CD Bot"
         ./.github/translate_mras.py
+      env:
+        REPOSITORY_DISPATCH_THEYPSILON: ${{ secrets.REPOSITORY_DISPATCH_THEYPSILON }}

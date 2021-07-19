@@ -43,16 +43,22 @@ def main():
     mister_devel_mras = list(MraFinder('BetaDistrib/_Arcade').find_all_mras())
     jtbin_mras = list(MraFinder('jtbin/mra').find_all_mras())
 
-    run_succesfully('rm -rf result || true')
-    run_succesfully('mkdir -p result')
-    mra_reader = MraReader('result')
+    run_succesfully('git clone git@github.com:theypsilon/BetaMAD.git')
+
+    run_succesfully('rm -rf BetaMAD/mad || true')
+    run_succesfully('mkdir -p BetaMAD/mad')
+    mra_reader = MraReader('BetaMAD/mad')
     for mra in (mister_devel_mras + jtbin_mras):
         print(str(mra))
         mra_reader.translate_mra(mra)
 
-    run_succesfully('git add result')
-    run_succesfully('git commit -m "Result" || true')
-    run_succesfully('git push origin main')
+    run_succesfully("""
+        set -euo pipefail
+        cd BetaMAD
+        git add mad
+        git commit -m "Result"
+        git push "https://theypsilon:%s@github.com/theypsilon/BetaMAD.git" main'
+    """ % os.getenv('REPOSITORY_DISPATCH_THEYPSILON', 'ooops'))
 
     print('Done.')
 
