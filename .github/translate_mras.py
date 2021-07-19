@@ -43,7 +43,7 @@ def main():
     mister_devel_mras = list(MraFinder('BetaDistrib/_Arcade').find_all_mras())
     jtbin_mras = list(MraFinder('jtbin/mra').find_all_mras())
 
-    run_succesfully('git clone git@github.com:theypsilon/BetaMAD.git')
+    run_succesfully('git clone https://github.com/theypsilon/BetaMAD.git')
 
     run_succesfully('rm -rf BetaMAD/mad || true')
     run_succesfully('mkdir -p BetaMAD/mad')
