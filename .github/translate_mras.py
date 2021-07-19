@@ -150,8 +150,13 @@ class MraReader:
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
 
+        parts = mra.path.split('/')
+        base = parts[0] + '/' + parts[1] + '/'
+        target_path = self._targetdir + mra.path.replace(base, '').replace('.mra', '.mad')
+        os.makedirs(str(Path(target_path).parent), exist_ok=True)
+
         xmlstr = minidom.parseString(ET.tostring(doc)).toprettyxml(indent="   ")
-        with open(self._targetdir + "/" + mra.stem + ".mad", "w") as f:
+        with open(target_path, "w") as f:
             f.write(xmlstr)
 
 def create_orphan_branch(branch):
