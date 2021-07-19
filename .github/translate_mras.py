@@ -55,9 +55,9 @@ def main():
     run_succesfully("""
         cd BetaMAD
         git add mad
-        git commit -m "Result"
+        git commit -m "%s"
         git push "https://theypsilon:%s@github.com/theypsilon/BetaMAD.git" main
-    """ % os.getenv('REPOSITORY_DISPATCH_THEYPSILON', 'ooops'))
+    """ % (datetime.now().strftime("%Y/%m/%d %H:%M:%S"), os.getenv('REPOSITORY_DISPATCH_THEYPSILON', 'ooops')))
 
     print('Done.')
 
