@@ -56,7 +56,7 @@ def main():
         cd BetaMAD
         git add mad
         git commit -m "Result"
-        git push "https://theypsilon:%s@github.com/theypsilon/BetaMAD.git" main'
+        git push "https://theypsilon:%s@github.com/theypsilon/BetaMAD.git" main
     """ % os.getenv('REPOSITORY_DISPATCH_THEYPSILON', 'ooops'))
 
     print('Done.')
