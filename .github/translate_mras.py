@@ -150,13 +150,11 @@ class MraReader:
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
 
-        mra_path = str(mra)
-        parts = mra_path.split('/')
+        mra_str = str(mra)
+        parts = mra_str.split('/')
         base = parts[0] + '/' + parts[1] + '/'
-        target_path = self._targetdir + "/" + mra_path.replace(base, '').replace('.mra', '.mad')
+        target_path = self._targetdir + "/" + mra_str.replace(base, '').replace('.mra', '.mad')
         os.makedirs(str(Path(target_path).parent), exist_ok=True)
-
-        print(target_path)
 
         xmlstr = minidom.parseString(ET.tostring(doc)).toprettyxml(indent="   ")
         with open(target_path, "w") as f:
