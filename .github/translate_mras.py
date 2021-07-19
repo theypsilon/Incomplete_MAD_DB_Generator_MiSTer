@@ -137,9 +137,7 @@ class MraReader:
 
         doc = ET.Element("misterarcadedescription")
 
-        ET.SubElement(doc, "name").text = fields["name"]
-        ET.SubElement(doc, "setname").text = fields["setname"]
-
+        set_if_not_empty(doc, fields, 'setname')
         set_if_not_empty(doc, fields, 'name')
         set_if_not_empty(doc, fields, 'flip')
         set_if_not_empty(doc, fields, 'resolution')
