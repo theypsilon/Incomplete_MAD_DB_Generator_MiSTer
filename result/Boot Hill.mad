@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Boot Hill</name>
    <setname>boothill</setname>
    <name>Boot Hill</name>
    <resolution>15kHz</resolution>

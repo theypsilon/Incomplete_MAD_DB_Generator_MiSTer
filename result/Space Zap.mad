@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Space Zap</name>
    <setname>spacezap</setname>
    <name>Space Zap</name>
    <resolution>15kHz</resolution>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>War of the Bugs</name>
    <setname>warofbug</setname>
    <name>War of the Bugs</name>
    <flip>yes</flip>

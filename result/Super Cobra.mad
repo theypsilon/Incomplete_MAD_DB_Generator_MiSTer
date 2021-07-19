@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Super Cobra</name>
    <setname>scobra</setname>
    <name>Super Cobra</name>
    <flip>yes</flip>

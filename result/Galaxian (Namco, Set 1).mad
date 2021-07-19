@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Galaxian</name>
    <setname>galaxian</setname>
    <name>Galaxian</name>
    <flip>yes</flip>

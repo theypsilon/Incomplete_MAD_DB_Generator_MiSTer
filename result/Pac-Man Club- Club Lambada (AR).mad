@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pac-Man Club- Club Lambada</name>
    <setname>clubpacm</setname>
    <name>Pac-Man Club- Club Lambada</name>
    <flip>yes</flip>

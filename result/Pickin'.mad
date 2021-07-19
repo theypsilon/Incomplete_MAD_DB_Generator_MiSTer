@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pickin'</name>
    <setname>pickin</setname>
    <name>Pickin'</name>
    <flip>no</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Victory</name>
    <setname>victorycb</setname>
    <name>Victory</name>
    <flip>yes</flip>

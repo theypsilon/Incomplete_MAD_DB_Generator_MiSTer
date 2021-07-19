@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Minefield</name>
    <setname>minefld</setname>
    <name>Minefield</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Kung-Fu Master</name>
    <setname>kungfum</setname>
    <name>Kung-Fu Master</name>
    <resolution>15kHz</resolution>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Battle of Atlantis</name>
    <setname>atlantis2</setname>
    <name>Battle of Atlantis</name>
    <flip>no</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Block Gal</name>
    <setname>blockgal</setname>
    <name>Block Gal</name>
    <flip>no</flip>

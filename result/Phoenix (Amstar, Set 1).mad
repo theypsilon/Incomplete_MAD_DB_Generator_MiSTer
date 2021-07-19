@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Phoenix</name>
    <setname>phoenix</setname>
    <name>Phoenix</name>
    <flip>yes</flip>

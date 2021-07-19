@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Wonder Boy</name>
    <setname>wboy</setname>
    <name>Wonder Boy</name>
    <resolution>15kHz</resolution>

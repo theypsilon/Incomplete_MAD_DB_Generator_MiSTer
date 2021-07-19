@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Lost Tomb</name>
    <setname>losttomb</setname>
    <name>Lost Tomb</name>
    <flip>yes</flip>

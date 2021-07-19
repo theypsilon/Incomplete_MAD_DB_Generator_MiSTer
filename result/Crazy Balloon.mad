@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Crazy Balloon</name>
    <setname>crbaloon</setname>
    <name>Crazy Balloon</name>
    <flip>no</flip>

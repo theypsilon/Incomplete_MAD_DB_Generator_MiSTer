@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Laguna Racer</name>
    <setname>lagunar</setname>
    <name>Laguna Racer</name>
    <flip>yes</flip>

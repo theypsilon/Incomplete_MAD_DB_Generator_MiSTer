@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Lizard Wizard</name>
    <setname>lizwiz</setname>
    <name>Lizard Wizard</name>
    <flip>yes</flip>

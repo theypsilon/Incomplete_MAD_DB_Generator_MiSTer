@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Super Pac-Man</name>
    <setname>superpac</setname>
    <name>Super Pac-Man</name>
    <flip>yes</flip>

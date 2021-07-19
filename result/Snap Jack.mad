@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Snap Jack</name>
    <setname>snapjack</setname>
    <name>Snap Jack</name>
    <resolution>15kHz</resolution>

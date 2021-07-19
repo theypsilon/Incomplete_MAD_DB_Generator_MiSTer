@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Mars</name>
    <setname>mars</setname>
    <name>Mars</name>
    <flip>yes</flip>

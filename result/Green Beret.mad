@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Green Beret</name>
    <setname>gberet</setname>
    <name>Green Beret</name>
    <resolution>15kHz</resolution>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Crazy Kong</name>
    <setname>ckong</setname>
    <name>Crazy Kong</name>
    <flip>no</flip>

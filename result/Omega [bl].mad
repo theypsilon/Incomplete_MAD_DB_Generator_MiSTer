@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Omega</name>
    <setname>omegab</setname>
    <name>Omega</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>The Glob</name>
    <setname>theglobp</setname>
    <name>The Glob</name>
    <flip>yes</flip>

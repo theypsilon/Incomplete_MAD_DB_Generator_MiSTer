@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Rally-X</name>
    <setname>rallyx</setname>
    <name>Rally-X</name>
    <resolution>15kHz</resolution>

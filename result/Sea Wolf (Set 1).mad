@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Sea Wolf</name>
    <setname>seawolf</setname>
    <name>Sea Wolf</name>
    <resolution>15kHz</resolution>

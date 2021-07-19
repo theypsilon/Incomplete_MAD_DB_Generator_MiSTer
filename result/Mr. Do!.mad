@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Mr. Do!</name>
    <setname>mrdo</setname>
    <name>Mr. Do!</name>
    <flip>yes</flip>

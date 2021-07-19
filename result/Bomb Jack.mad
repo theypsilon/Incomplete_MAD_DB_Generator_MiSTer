@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Bomb Jack </name>
    <setname>bombjack</setname>
    <name>Bomb Jack </name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Q*bert</name>
    <setname>qbert</setname>
    <name>Q*bert</name>
    <flip>yes</flip>

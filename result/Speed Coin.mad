@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Speed Coin</name>
    <setname>spdcoin</setname>
    <name>Speed Coin</name>
    <flip>yes</flip>

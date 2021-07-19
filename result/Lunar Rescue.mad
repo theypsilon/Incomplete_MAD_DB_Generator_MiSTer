@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Lunar Rescue</name>
    <setname>lrescue</setname>
    <name>Lunar Rescue</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Donkey Kong</name>
    <setname>dkong</setname>
    <name>Donkey Kong</name>
    <flip>yes</flip>

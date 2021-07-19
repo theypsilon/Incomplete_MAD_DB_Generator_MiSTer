@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Space Chaser </name>
    <setname>schaser</setname>
    <name>Space Chaser </name>
    <flip>yes</flip>

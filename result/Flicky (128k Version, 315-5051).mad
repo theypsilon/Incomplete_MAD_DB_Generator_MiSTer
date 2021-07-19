@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Flicky</name>
    <setname>flicky</setname>
    <name>Flicky</name>
    <resolution>15kHz</resolution>

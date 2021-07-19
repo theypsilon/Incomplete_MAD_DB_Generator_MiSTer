@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Moon War</name>
    <setname>moonwar</setname>
    <name>Moon War</name>
    <flip>yes</flip>

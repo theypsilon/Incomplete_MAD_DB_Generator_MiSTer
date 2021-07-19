@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Space Invaders Part II</name>
    <setname>invadpt2</setname>
    <name>Space Invaders Part II</name>
    <flip>yes</flip>

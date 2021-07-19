@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Space Race [TTL]</name>
    <setname>spacerace</setname>
    <name>Space Race [TTL]</name>
    <resolution>15kHz</resolution>

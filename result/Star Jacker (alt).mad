@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Star Jacker</name>
    <setname>starjacks</setname>
    <name>Star Jacker</name>
    <flip>no</flip>

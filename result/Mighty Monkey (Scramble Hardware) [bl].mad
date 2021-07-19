@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Mighty Monkey</name>
    <setname>mimonscr</setname>
    <name>Mighty Monkey</name>
    <flip>no</flip>

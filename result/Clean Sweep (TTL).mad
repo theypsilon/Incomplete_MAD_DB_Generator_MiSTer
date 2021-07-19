@@ -1,8 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <name>Clean Sweep</name>
-   <setname/>
-   <name>Clean Sweep</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
    <homebrew>no</homebrew>

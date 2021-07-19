@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Galaga</name>
    <setname>galagamw</setname>
    <name>Galaga</name>
    <flip>no</flip>

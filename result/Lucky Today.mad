@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Lucky Today</name>
    <setname>luctoday</setname>
    <name>Lucky Today</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Silkworm</name>
    <setname>silkworm</setname>
    <name>Silkworm</name>
    <resolution>15kHz</resolution>

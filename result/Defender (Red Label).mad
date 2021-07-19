@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Defender</name>
    <setname>defender</setname>
    <name>Defender</name>
    <resolution>15kHz</resolution>

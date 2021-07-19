@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Frogger</name>
    <setname>frogger</setname>
    <name>Frogger</name>
    <flip>yes</flip>

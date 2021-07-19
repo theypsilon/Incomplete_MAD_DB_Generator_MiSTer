@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Burger Time</name>
    <setname>btime</setname>
    <name>Burger Time</name>
    <flip>no</flip>

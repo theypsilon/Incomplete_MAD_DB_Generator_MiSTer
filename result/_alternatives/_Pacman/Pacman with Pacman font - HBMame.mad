@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pacman with Pacman font - HBMame</name>
    <setname>pacfnt</setname>
    <name>Pacman with Pacman font - HBMame</name>
    <year>2000</year>

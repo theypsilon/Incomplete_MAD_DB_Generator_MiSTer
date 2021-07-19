@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Mappy</name>
    <setname>mappy</setname>
    <name>Mappy</name>
    <flip>yes</flip>

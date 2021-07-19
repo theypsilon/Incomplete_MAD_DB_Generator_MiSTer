@@ -1,8 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <name>Computer Space</name>
-   <setname/>
-   <name>Computer Space</name>
    <resolution>15kHz</resolution>
    <homebrew>no</homebrew>
    <bootleg>no</bootleg>

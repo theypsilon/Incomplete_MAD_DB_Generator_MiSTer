@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Tetris</name>
    <setname>atetris</setname>
    <name>Tetris</name>
    <flip>no</flip>

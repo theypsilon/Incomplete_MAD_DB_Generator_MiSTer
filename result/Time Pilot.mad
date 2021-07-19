@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Time Pilot</name>
    <setname>timeplt</setname>
    <name>Time Pilot</name>
    <flip>no</flip>

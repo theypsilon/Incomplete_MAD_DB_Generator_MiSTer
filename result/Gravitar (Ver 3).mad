@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Gravitar</name>
    <setname>gravitar</setname>
    <name>Gravitar</name>
    <resolution>31kHz</resolution>

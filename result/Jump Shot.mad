@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Jump Shot</name>
    <setname>jumpshot</setname>
    <name>Jump Shot</name>
    <flip>yes</flip>
