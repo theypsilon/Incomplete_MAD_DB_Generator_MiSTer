@@ -150,7 +150,7 @@ class MraReader:
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
 
-        mra_path = str(mra.relative())
+        mra_path = str(mra)
         parts = mra_path.split('/')
         base = parts[0] + '/' + parts[1] + '/'
         target_path = self._targetdir + "/" + mra_path.replace(base, '').replace('.mra', '.mad')
