@@ -53,7 +53,6 @@ def main():
         mra_reader.translate_mra(mra)
 
     run_succesfully("""
-        set -euo pipefail
         cd BetaMAD
         git add mad
         git commit -m "Result"
