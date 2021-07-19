@@ -24,7 +24,7 @@ import os
 import io
 import hashlib
 import distutils.util
-import datetime
+from datetime import datetime
 import difflib
 import shutil
 import time
