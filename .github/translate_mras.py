@@ -156,6 +156,8 @@ class MraReader:
         target_path = self._targetdir + mra_path.replace(base, '').replace('.mra', '.mad')
         os.makedirs(str(Path(target_path).parent), exist_ok=True)
 
+        print(target_path)
+
         xmlstr = minidom.parseString(ET.tostring(doc)).toprettyxml(indent="   ")
         with open(target_path, "w") as f:
             f.write(xmlstr)
