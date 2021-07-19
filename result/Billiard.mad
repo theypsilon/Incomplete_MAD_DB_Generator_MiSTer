@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Billiard</name>
    <setname>bilyard</setname>
    <name>Billiard</name>
    <resolution>15kHz</resolution>

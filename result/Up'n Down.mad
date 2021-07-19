@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Up'n Down</name>
    <setname>upndown</setname>
    <name>Up'n Down</name>
    <flip>no</flip>

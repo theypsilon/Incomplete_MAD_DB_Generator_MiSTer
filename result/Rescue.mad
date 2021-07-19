@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Rescue</name>
    <setname>rescue</setname>
    <name>Rescue</name>
    <flip>yes</flip>

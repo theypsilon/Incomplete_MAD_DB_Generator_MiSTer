@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Wizard of Wor</name>
    <setname>wow</setname>
    <name>Wizard of Wor</name>
    <resolution>15kHz</resolution>

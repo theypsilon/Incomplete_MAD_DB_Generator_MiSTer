@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Super Bagman</name>
    <setname>sbagman</setname>
    <name>Super Bagman</name>
    <flip>no</flip>

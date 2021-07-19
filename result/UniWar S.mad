@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>UniWar S</name>
    <setname>uniwars</setname>
    <name>UniWar S</name>
    <flip>yes</flip>

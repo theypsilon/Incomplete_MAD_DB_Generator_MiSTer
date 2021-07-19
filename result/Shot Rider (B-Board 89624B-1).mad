@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Shot Rider</name>
    <setname>shtrider</setname>
    <name>Shot Rider</name>
    <flip>yes</flip>

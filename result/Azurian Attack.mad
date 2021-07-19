@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Azurian Attack</name>
    <setname>azurian</setname>
    <name>Azurian Attack</name>
    <flip>yes</flip>

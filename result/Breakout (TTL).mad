@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Breakout</name>
    <setname>breakout</setname>
    <name>Breakout</name>
    <flip>no</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Water Match</name>
    <setname>wmatch</setname>
    <name>Water Match</name>
    <flip>no</flip>

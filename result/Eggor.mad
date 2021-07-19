@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Eggor</name>
    <setname>eggor</setname>
    <name>Eggor</name>
    <flip>yes</flip>

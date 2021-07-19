@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Demolition Derby</name>
    <setname>demoderm</setname>
    <name>Demolition Derby</name>
    <resolution>15kHz</resolution>

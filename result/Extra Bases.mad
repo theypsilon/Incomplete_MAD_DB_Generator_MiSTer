@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Extra Bases</name>
    <setname>ebases</setname>
    <name>Extra Bases</name>
    <resolution>15kHz</resolution>

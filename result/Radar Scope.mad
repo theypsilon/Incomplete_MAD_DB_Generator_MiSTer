@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Radar Scope</name>
    <setname>radarscp</setname>
    <name>Radar Scope</name>
    <flip>broken</flip>

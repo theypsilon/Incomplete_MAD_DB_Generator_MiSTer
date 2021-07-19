@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Dig Dug</name>
    <setname>digdug</setname>
    <name>Dig Dug</name>
    <flip>no</flip>

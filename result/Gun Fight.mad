@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Gun Fight</name>
    <setname>gunfight</setname>
    <name>Gun Fight</name>
    <resolution>15kHz</resolution>

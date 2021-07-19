@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Armored Car</name>
    <setname>armorcar</setname>
    <name>Armored Car</name>
    <flip>yes</flip>

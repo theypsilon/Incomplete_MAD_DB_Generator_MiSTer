@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Solar Fox</name>
    <setname>solarfox</setname>
    <name>Solar Fox</name>
    <flip>no</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Balloon Bomber</name>
    <setname>ballbomb</setname>
    <name>Balloon Bomber</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Domino Man</name>
    <setname>domino</setname>
    <name>Domino Man</name>
    <resolution>15kHz</resolution>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Turbo Tag</name>
    <setname>turbotag</setname>
    <name>Turbo Tag</name>
    <flip>no</flip>

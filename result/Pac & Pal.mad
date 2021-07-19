@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pac &amp; Pal</name>
    <setname>pacnpal</setname>
    <name>Pac &amp; Pal</name>
    <flip>yes</flip>

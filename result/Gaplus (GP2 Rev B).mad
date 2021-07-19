@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Gaplus</name>
    <setname>gaplus</setname>
    <name>Gaplus</name>
    <flip>no</flip>

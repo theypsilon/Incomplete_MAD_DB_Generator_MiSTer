@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Shuttle Invader</name>
    <setname>shuttlei</setname>
    <name>Shuttle Invader</name>
    <flip>yes</flip>

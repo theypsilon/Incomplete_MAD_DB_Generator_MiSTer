@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>The End</name>
    <setname>theend</setname>
    <name>The End</name>
    <flip>yes</flip>

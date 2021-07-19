@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Cosmo</name>
    <setname>cosmo</setname>
    <name>Cosmo</name>
    <flip>yes</flip>

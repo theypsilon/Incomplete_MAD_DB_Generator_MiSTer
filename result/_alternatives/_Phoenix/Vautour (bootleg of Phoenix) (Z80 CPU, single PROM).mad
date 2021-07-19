@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)</name>
    <setname>vautourza</setname>
    <name>Vautour (bootleg of Phoenix) (Z80 CPU, single PROM)</name>
    <year>1980</year>

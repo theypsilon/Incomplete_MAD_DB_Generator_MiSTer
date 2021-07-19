@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Kick</name>
    <setname>kick</setname>
    <name>Kick</name>
    <flip>no</flip>

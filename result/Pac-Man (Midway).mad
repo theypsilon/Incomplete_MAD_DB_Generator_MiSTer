@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pac-Man</name>
    <setname>pacman</setname>
    <name>Pac-Man</name>
    <flip>yes</flip>

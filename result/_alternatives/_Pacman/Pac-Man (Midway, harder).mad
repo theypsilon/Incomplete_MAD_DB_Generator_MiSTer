@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pac-Man (Midway, harder)</name>
    <setname>pacmod</setname>
    <name>Pac-Man (Midway, harder)</name>
    <year>1981</year>

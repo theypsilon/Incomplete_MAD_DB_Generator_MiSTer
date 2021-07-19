@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>The Battle-Road</name>
    <setname>battroad</setname>
    <name>The Battle-Road</name>
    <flip>broken</flip>

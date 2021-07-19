@@ -1,8 +1,6 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
    <name>Pac-Manic Miner</name>
-   <setname/>
-   <name>Pac-Manic Miner</name>
    <flip>yes</flip>
    <resolution>15kHz</resolution>
    <homebrew>no</homebrew>

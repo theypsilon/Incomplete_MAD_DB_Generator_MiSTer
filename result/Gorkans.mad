@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Gorkans</name>
    <setname>gorkans</setname>
    <name>Gorkans</name>
    <flip>yes</flip>

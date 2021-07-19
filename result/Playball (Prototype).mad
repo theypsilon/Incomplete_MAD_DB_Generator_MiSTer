@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Playball</name>
    <setname>playball</setname>
    <name>Playball</name>
    <flip>no</flip>

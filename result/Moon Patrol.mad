@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Moon Patrol</name>
    <setname>mpatrol</setname>
    <name>Moon Patrol</name>
    <resolution>15kHz</resolution>

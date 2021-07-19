@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Zig Zag</name>
    <setname>zigzagb</setname>
    <name>Zig Zag</name>
    <flip>no</flip>

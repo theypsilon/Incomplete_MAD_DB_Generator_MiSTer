@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pengo</name>
    <setname>pengo</setname>
    <name>Pengo</name>
    <flip>yes</flip>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Shuffleboard</name>
    <setname>shuffle</setname>
    <name>Shuffleboard</name>
    <flip>yes</flip>

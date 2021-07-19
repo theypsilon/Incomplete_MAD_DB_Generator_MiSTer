@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pacman (Shuffle) - HBMame</name>
    <setname>pacshuf</setname>
    <name>Pacman (Shuffle) - HBMame</name>
    <year>2000</year>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Lupin III</name>
    <setname>lupin3a</setname>
    <name>Lupin III</name>
    <flip>yes</flip>

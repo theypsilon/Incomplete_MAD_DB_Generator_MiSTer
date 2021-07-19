@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Power Drive</name>
    <setname>powerdrv</setname>
    <name>Power Drive</name>
    <resolution>15kHz</resolution>

@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Tazz-Mania</name>
    <setname>tazmania</setname>
    <name>Tazz-Mania</name>
    <flip>yes</flip>

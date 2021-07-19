@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Motos</name>
    <setname>motos</setname>
    <name>Motos</name>
    <flip>yes</flip>

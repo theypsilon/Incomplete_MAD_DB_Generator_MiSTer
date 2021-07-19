@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Centipede</name>
    <setname>centiped3</setname>
    <name>Centipede</name>
    <flip>no</flip>

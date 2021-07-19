@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Pitfall II</name>
    <setname>pitfall2</setname>
    <name>Pitfall II</name>
    <resolution>15kHz</resolution>

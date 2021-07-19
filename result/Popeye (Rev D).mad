@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Popeye</name>
    <setname>popeye</setname>
    <name>Popeye</name>
    <resolution>15kHz</resolution>

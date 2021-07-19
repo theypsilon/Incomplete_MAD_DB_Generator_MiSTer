@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Orbitron</name>
    <setname>orbitron</setname>
    <name>Orbitron</name>
    <flip>yes</flip>

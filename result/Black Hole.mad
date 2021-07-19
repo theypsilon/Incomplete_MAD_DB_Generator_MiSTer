@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <misterarcadedescription>
-   <name>Black Hole</name>
    <setname>blkhole</setname>
    <name>Black Hole</name>
    <flip>yes</flip>
