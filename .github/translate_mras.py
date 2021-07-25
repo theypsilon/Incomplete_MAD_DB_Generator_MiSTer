@@ -159,6 +159,12 @@ class MraReader:
             'special_controls',
         ])
 
+        if fields['hbmame'] == '' and ('hbmame' in mra.lower() or '[hb]' in mra.lower()):
+            fields['hbmame'] = 'yes'
+
+        if fields['bootleg'] == '' and ('bootleg' in mra.lower() or 'bootleg' in fields['name'].lower()):
+            fields['bootleg'] = 'yes'
+
         fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
 
         doc = ET.Element("misterarcadedescription")
