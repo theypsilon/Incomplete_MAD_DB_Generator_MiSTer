@@ -125,6 +125,9 @@ def read_mra_fields(mra_path, tags):
 def lineno():
     return getframeinfo(currentframe().f_back).lineno
 
+def is_path_alternative(mra_path):
+    return any(p.name.lower() == '_alternatives' for p in mra_path.parents)
+
 class MraReader:
     def __init__(self, targetdir):
         self._targetdir = targetdir
@@ -156,9 +159,12 @@ class MraReader:
             'special_controls',
         ])
 
+        fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
+
         doc = ET.Element("misterarcadedescription")
 
         set_if_not_empty(doc, fields, 'setname')
+        set_if_not_empty(doc, fields, 'alternative')
         set_if_not_empty(doc, fields, 'name')
         set_if_not_empty(doc, fields, 'flip')
         set_if_not_empty(doc, fields, 'resolution')
