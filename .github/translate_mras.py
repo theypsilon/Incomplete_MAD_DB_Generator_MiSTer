@@ -162,7 +162,7 @@ class MraReader:
         if fields['homebrew'] == '' and ('hbmame' in mra.lower() or '[hb]' in mra.lower()):
             fields['homebrew'] = 'yes'
 
-        if fields['bootleg'] == '' and ('bootleg' in mra.lower() or 'bootleg' in fields['name'].lower()):
+        if fields['bootleg'] == '' and ('bootleg' in mra.lower() or '[bl]' in mra.lower()):
             fields['bootleg'] = 'yes'
 
         fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
