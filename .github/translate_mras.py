@@ -159,10 +159,12 @@ class MraReader:
             'special_controls',
         ])
 
-        if fields['homebrew'] == '' and ('hbmame' in mra.lower() or '[hb]' in mra.lower()):
+        mra_str = str(mra)
+
+        if fields['homebrew'] == '' and ('hbmame' in mra_str.lower() or '[hb]' in mra_str.lower()):
             fields['homebrew'] = 'yes'
 
-        if fields['bootleg'] == '' and ('bootleg' in mra.lower() or '[bl]' in mra.lower()):
+        if fields['bootleg'] == '' and ('bootleg' in mra_str.lower() or '[bl]' in mra_str.lower()):
             fields['bootleg'] = 'yes'
 
         fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
@@ -193,7 +195,6 @@ class MraReader:
         set_if_not_empty(doc, fields, 'move_inputs')
         set_if_not_empty(doc, fields, 'special_controls')
 
-        mra_str = str(mra)
         parts = mra_str.split('/')
         base = parts[0] + '/' + parts[1] + '/'
         target_path = self._targetdir + "/" + mra_str.replace(base, '').replace('.mra', '.mad')
