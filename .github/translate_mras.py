@@ -170,7 +170,7 @@ class MraReader:
 
         fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
 
-        fields['move_inputs'] = fields['joystick']
+        fields['move_inputs'] = 'joystick %s' % fields['joystick'] if fields['joystick'] != '' else ''
 
         doc = ET.Element("misterarcadedescription")
 
