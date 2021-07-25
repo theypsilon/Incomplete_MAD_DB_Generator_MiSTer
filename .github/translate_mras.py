@@ -136,10 +136,24 @@ class MraReader:
             'rotation',
             'flip',
             'resolution',
+            'cocktail',
             'region',
             'year',
             'category',
-            'manufacturer'
+            'manufacturer',
+            'homebrew',
+            'bootleg',
+            'enhancements',
+            'translations',
+            'hacks',
+            'best_of',
+            'platform',
+            'series',
+            'num_buttons',
+            'num_controllers',
+            'num_monitors',
+            'move_inputs',
+            'special_controls',
         ])
 
         doc = ET.Element("misterarcadedescription")
@@ -148,10 +162,24 @@ class MraReader:
         set_if_not_empty(doc, fields, 'name')
         set_if_not_empty(doc, fields, 'flip')
         set_if_not_empty(doc, fields, 'resolution')
+        set_if_not_empty(doc, fields, 'cocktail')
         set_if_not_empty(doc, fields, 'region')
         set_if_not_empty(doc, fields, 'year')
         set_if_not_empty(doc, fields, 'category')
         set_if_not_empty(doc, fields, 'manufacturer')
+        set_if_not_empty(doc, fields, 'homebrew')
+        set_if_not_empty(doc, fields, 'bootleg')
+        set_if_not_empty(doc, fields, 'enhancements')
+        set_if_not_empty(doc, fields, 'translations')
+        set_if_not_empty(doc, fields, 'hacks')
+        set_if_not_empty(doc, fields, 'best_of')
+        set_if_not_empty(doc, fields, 'platform')
+        set_if_not_empty(doc, fields, 'series')
+        set_if_not_empty(doc, fields, 'num_buttons')
+        set_if_not_empty(doc, fields, 'num_controllers')
+        set_if_not_empty(doc, fields, 'num_monitors')
+        set_if_not_empty(doc, fields, 'move_inputs')
+        set_if_not_empty(doc, fields, 'special_controls')
 
         mra_str = str(mra)
         parts = mra_str.split('/')
