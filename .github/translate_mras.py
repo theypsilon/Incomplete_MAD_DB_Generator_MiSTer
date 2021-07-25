@@ -148,6 +148,7 @@ class MraReader:
             'bootleg',
             'enhancements',
             'translations',
+            'joystick',
             'hacks',
             'best_of',
             'platform',
@@ -168,6 +169,8 @@ class MraReader:
             fields['bootleg'] = 'yes'
 
         fields['alternative'] = "yes" if is_path_alternative(mra) else "no"
+
+        fields['move_inputs'] = fields['joystick']
 
         doc = ET.Element("misterarcadedescription")
 
