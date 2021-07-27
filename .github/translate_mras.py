@@ -47,7 +47,7 @@ def main():
     penguinkunwars_mras = list(MraFinder('MiSTer-Arcade-PenguinKunWars/releases').find_all_mras())
     gyruss_mras = list(MraFinder('MiSTer-Arcade-Gyruss/releases').find_all_mras())
 
-    run_succesfully('git clone https://github.com/theypsilon/BetaMAD.git')
+    run_succesfully('git clone https://github.com/theypsilon/MAD_Database_MiSTer.git')
 
     run_succesfully('rm -rf BetaMAD/mad || true')
     run_succesfully('mkdir -p BetaMAD/mad')
@@ -60,7 +60,7 @@ def main():
         cd BetaMAD
         git add mad
         git commit -m "%s"
-        git push "https://theypsilon:%s@github.com/theypsilon/BetaMAD.git" main
+        git push "https://theypsilon:%s@github.com/theypsilon/MAD_Database_MiSTer.git" main
     """ % (datetime.now().strftime("%Y/%m/%d %H:%M:%S"), os.getenv('REPOSITORY_DISPATCH_THEYPSILON', 'ooops')))
 
     print('Done.')
