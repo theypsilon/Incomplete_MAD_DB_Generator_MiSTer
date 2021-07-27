@@ -49,15 +49,15 @@ def main():
 
     run_succesfully('git clone https://github.com/theypsilon/MAD_Database_MiSTer.git')
 
-    run_succesfully('rm -rf BetaMAD/mad || true')
-    run_succesfully('mkdir -p BetaMAD/mad')
-    mra_reader = MraReader('BetaMAD/mad')
+    run_succesfully('rm -rf MAD_Database_MiSTer/mad || true')
+    run_succesfully('mkdir -p MAD_Database_MiSTer/mad')
+    mra_reader = MraReader('MAD_Database_MiSTer/mad')
     for mra in (mister_devel_mras + jtbin_mras + penguinkunwars_mras + gyruss_mras):
         print(str(mra))
         mra_reader.translate_mra(mra)
 
     run_succesfully("""
-        cd BetaMAD
+        cd MAD_Database_MiSTer
         git add mad
         git commit -m "%s"
         git push "https://theypsilon:%s@github.com/theypsilon/MAD_Database_MiSTer.git" main
