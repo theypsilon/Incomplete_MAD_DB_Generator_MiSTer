@@ -154,7 +154,7 @@ class MraReader:
             'platform',
             'series',
             'num_buttons',
-            'num_controllers',
+            'players',
             'num_monitors',
             'move_inputs',
             'special_controls',
@@ -193,7 +193,7 @@ class MraReader:
         set_if_not_empty(doc, fields, 'platform')
         set_if_not_empty(doc, fields, 'series')
         set_if_not_empty(doc, fields, 'num_buttons')
-        set_if_not_empty(doc, fields, 'num_controllers')
+        set_if_not_empty(doc, fields, 'players')
         set_if_not_empty(doc, fields, 'num_monitors')
         set_if_not_empty(doc, fields, 'move_inputs')
         set_if_not_empty(doc, fields, 'special_controls')
