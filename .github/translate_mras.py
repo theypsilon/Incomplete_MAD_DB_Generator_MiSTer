@@ -37,12 +37,12 @@ def main():
 
     print('START!')
 
-    run_succesfully('git clone https://github.com/theypsilon/BetaDistrib.git')
+    run_succesfully('git clone https://github.com/MiSTer-devel/Distribution_MiSTer.git')
     run_succesfully('git clone https://github.com/jotego/jtbin.git')
     run_succesfully('git clone https://github.com/MrX-8B/MiSTer-Arcade-PenguinKunWars.git')
     run_succesfully('git clone https://github.com/MrX-8B/MiSTer-Arcade-Gyruss.git')
 
-    mister_devel_mras = list(MraFinder('BetaDistrib/_Arcade').find_all_mras())
+    mister_devel_mras = list(MraFinder('Distribution_MiSTer/_Arcade').find_all_mras())
     jtbin_mras = list(MraFinder('jtbin/mra').find_all_mras())
     penguinkunwars_mras = list(MraFinder('MiSTer-Arcade-PenguinKunWars/releases').find_all_mras())
     gyruss_mras = list(MraFinder('MiSTer-Arcade-Gyruss/releases').find_all_mras())
