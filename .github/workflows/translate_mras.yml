@@ -2,7 +2,7 @@ name: Translate MRAs
 
 on:
   schedule:
-    - cron:  '*/20 * * * *'
+    - cron:  '23 * * * *'
   push:
     branches:
       - main
